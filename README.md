@@ -13,12 +13,6 @@
 
 ------------------------------------------------------------------------------------------------------------
 
-### GitHub
-
-地址：[https://github.com/yyzhyyds](https://github.com/yyzhyyds)
-国内：[https://gitee.com/zhyzyy2121](https://gitee.com/zhyzyy2121)
-欢迎 follow ⭐️
-
 ### 其他平台
 
 CSDN：[https://blog.csdn.net/m0_71566302?spm=1018.2226.3001.5343](https://blog.csdn.net/m0_71566302?spm=1018.2226.3001.5343)
