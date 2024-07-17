@@ -1,4 +1,4 @@
-## Hi there 👋
+## 个人介绍 👋
 - 自己想要找长期一起学习（我主学Java）的朋友，有意愿的来。欢迎大家来找我，没有及时回复消息可能是在忙，望海涵。希望可以与大家互相学习，一起进步人多的话可能建个小群🥰。
 
 - 🏡 作品：<a href="https://yuan-club.inscode.cc/" target="_blank">Yuan-Club</a>
